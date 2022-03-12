@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;700&display=swap');
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/anime/ani-9/ani878.ani), url(https://cur.cursors-4u.net/anime/ani-9/ani878.png), auto !important;} /* End https://www.cursors-4u.com */
+
+html {
+    margin: 0;
+    padding: 0;
+    height: max-content;
+    background-color: rgb(47, 47, 47);
+    font-family: 'Inconsolata', monospace;
+    color: rgb(212, 212, 212);
+}
+
+.graybox {
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 10px 10px 10px 10px;
+    border-color: gray;
+    text-align: center;
+}
+
+.p {
+    font-weight: 300;
+}
+
+a {
+    color: rgb(255, 64, 47);
+    text-decoration: none;
+    font-weight: 700;
+}
